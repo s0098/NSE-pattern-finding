@@ -66,6 +66,3 @@ pip install mss==10.0.0 opencv-python==4.11.0.86 numpy ultralytics==8.3.94 openp
 
 This project is for educational and research purposes only.
 
----
-
-Original notebook: [Google Colab](https://colab.research.google.com/drive/1_Erc4nQIk91x1FT5rDfOLdzpmv74zwUC)
